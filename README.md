@@ -19,14 +19,17 @@ Designed for security researchers, penetration testers, and wireless protocol en
 ## 📸 Screenshots
 
 
-### Main Menu
+### Main Menu Page 1
 ![Main Menu Page 1](screenshots/Page1.jpeg)
 
-### WiFi Attacks
+### Main Menu Page 2
 ![Main Menu Page 2](screenshots/Page2.jpeg)
 
-### BLE Spam
+### List Style
 ![List Style](screenshots/Page3.jpeg)
+
+### WebPage
+![WebPage](screenshots/Page4.jpeg)
 
 ---
 
@@ -353,43 +356,12 @@ GET  /api/theme                - Get current theme
 
 ### ⚠️ Disclaimer
 
-**This tool is intended for security research, penetration testing, and educational purposes ONLY.**
+**This tool is intended for security research, penetration testing, and educational purposes ONLY 😏.**
 
 - Only use this device on networks and systems you **own** or have **explicit written permission** to test.
 - Unauthorized access to computer systems, networks, or wireless communications is **illegal** in most jurisdictions.
 - The authors and contributors of this project are **not responsible** for any misuse or damage caused by this software.
 - You are solely responsible for ensuring your use complies with all applicable laws and regulations.
-
-### ✅ Acceptable Use Cases
-- Security auditing of your own networks
-- Penetration testing with written authorization
-- Educational demonstrations in controlled environments
-- Research on wireless protocol security
-- Testing IoT device security
-
-### ❌ Unacceptable Use Cases
-- Attacking networks you don't own
-- Interfering with emergency services
-- Causing disruption to public networks
-- Any illegal activity
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these guidelines:
-
-1. **Fork the repository**
-2. **Create a feature branch** (`git checkout -b feature/AmazingFeature`)
-3. **Commit your changes** (`git commit -m 'Add some AmazingFeature'`)
-4. **Push to the branch** (`git push origin feature/AmazingFeature`)
-5. **Open a Pull Request**
-
-### Code Style
-- Follow Arduino C++ conventions
-- Comment your code clearly
-- Test on actual hardware before submitting
-- Update documentation for new features
 
 ---
 
@@ -428,7 +400,6 @@ SOFTWARE.
 **Created by Zalan Lykos**
 
 - **Website**: [zalanlykos.github.io](https://zalanlykos.github.io)
-- **Contact**: 03295679004
 
 ### Special Thanks
 - **ESP32 Community** - For excellent hardware and libraries
@@ -501,5 +472,3 @@ If you find this project useful, please consider giving it a star!
 ---
 
 **Made with ❤️ by Zalan Lykos**
-
-*"If found, call 03295679004"*
