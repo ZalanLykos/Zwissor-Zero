@@ -393,21 +393,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
----
 
-## 🙏 Credits
 
-**Created by Zalan Lykos**
-
-- **Website**: [zalanlykos.github.io](https://zalanlykos.github.io)
-
-### Special Thanks
-- **ESP32 Community** - For excellent hardware and libraries
-- **IRremote Library** - For comprehensive IR protocol support
-- **NimBLE Team** - For efficient BLE implementation
-- **U8g2 Library** - For OLED display support
-
----
 
 ## 📊 Project Stats
 
@@ -470,5 +457,8 @@ If you find this project useful, please consider giving it a star!
 - [U8g2](https://github.com/olikraus/u8g2) - Display library
 
 ---
+## 🙏 Credits
 
 **Made with ❤️ by Zalan Lykos**
+
+- **Website**: [zalanlykos.github.io](https://zalanlykos.github.io)
