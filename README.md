@@ -2,7 +2,7 @@
 
 **A portable mini hacking device capable of altering WiFi, SubGHz, BLE5, IR, and more — built for security research and wireless protocol testing.**
 
-![Platform](https://img.shields.io/badge/Platform-ESP32--S3--Zero-blue)
+![Platform](https://img.shields.io/badge/Platform-ESP32--S3--Mini--Zero-blue)
 ![Version](https://img.shields.io/badge/Version-V4-green)
 ![License](https://img.shields.io/badge/License-Open%20Source-orange)
 
