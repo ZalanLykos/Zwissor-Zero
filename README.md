@@ -170,7 +170,7 @@ Install these libraries via Arduino Library Manager or PlatformIO:
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/zwisser-zero.git
+git clone https://github.com/ZalanLykos/Zwissor-Zero.git
 cd zwisser-zero
 
 # Install dependencies
@@ -507,5 +507,3 @@ If you find this project useful, please consider giving it a star!
 ---
 
 **Made with ❤️ by Zalan Lykos**
-
-*"If found, call 03295679004"*
