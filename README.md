@@ -2,7 +2,7 @@
 
 **A portable mini hacking device capable of altering WiFi, SubGHz, BLE5, IR, and more — built for security research and wireless protocol testing.**
 
-![Platform](https://img.shields.io/badge/Platform-ESP32--S3--Mini--Zero-blue)
+![Platform](https://img.shields.io/badge/Platform-ESP32--S3--Zero-blue)
 ![Version](https://img.shields.io/badge/Version-V4-green)
 ![License](https://img.shields.io/badge/License-Open%20Source-orange)
 
@@ -13,6 +13,20 @@
 **Zwisser Zero** is a powerful, portable multi-protocol wireless security research tool built on the ESP32-S3-Zero microcontroller. It combines WiFi, Bluetooth Low Energy (BLE5), and Infrared (IR) capabilities into a compact, handheld device with an OLED display and intuitive 5-way navigation.
 
 Designed for security researchers, penetration testers, and wireless protocol enthusiasts, Zwisser Zero provides a comprehensive suite of tools for analyzing, testing, and experimenting with various wireless communication protocols.
+
+---
+
+## 📸 Screenshots
+
+
+### Main Menu
+![Main Menu Page 1](screenshots/Page1.jpeg)
+
+### WiFi Attacks
+![Main Menu Page 2](screenshots/Page2.jpeg)
+
+### BLE Spam
+![List Style](screenshots/Page3.jpeg)
 
 ---
 
@@ -450,26 +464,6 @@ SOFTWARE.
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots of your device here)*
-
-### Main Menu
-![Main Menu](screenshots/main-menu.png)
-
-### WiFi Attacks
-![WiFi Attacks](screenshots/wifi-attacks.png)
-
-### BLE Spam
-![BLE Spam](screenshots/ble-spam.png)
-
-### IR Control
-![IR Control](screenshots/ir-control.png)
-
-### Web Interface
-![Web UI](screenshots/web-ui.png)
-
----
 
 ## 🐛 Known Issues
 
@@ -507,3 +501,5 @@ If you find this project useful, please consider giving it a star!
 ---
 
 **Made with ❤️ by Zalan Lykos**
+
+*"If found, call 03295679004"*
